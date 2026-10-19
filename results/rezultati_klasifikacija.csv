@@ -1,0 +1,5 @@
+model,Accuracy,Precision,Recall,F1,AUC
+Baseline (sutra > 50 ako je danas > 50),0.847,0.813,0.819,0.816,0.921
+Logistic Regression,0.858,0.827,0.832,0.829,0.902
+Random Forest,0.864,0.847,0.819,0.833,0.932
+HistGradientBoosting,0.855,0.834,0.812,0.823,0.921

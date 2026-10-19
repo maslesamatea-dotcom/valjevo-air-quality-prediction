@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+openpyxl
+# opciono: koristi se u 03_models_pollution_only.py ako je instalirano
+# catboost
